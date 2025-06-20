@@ -45,7 +45,7 @@ FUTURE_CS_03/
 │   └── router_settings.png
 ├── data/
 │   ├── port_scan.txt
-│   └── device_scan.txt (optional)
+
 
 Recommendations:
 - Enable WPA2 or WPA3 encryption
